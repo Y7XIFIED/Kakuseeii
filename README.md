@@ -1,31 +1,15 @@
-# Kakusei — 覚醒
+<h3 align="center"><b>KAKUSEI — 覚醒</b></h3>
 
-> *"I have awakened beyond all known limits. Gods crumble before me. This is my domain."*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite" />
+</p>
 
-An anime-inspired scroll reveal experience built with GSAP, ScrollTrigger, and Lenis smooth scroll.
+Step into the absolute peak of power with **Kakusei**! 🌟 This isn't just a website; it's a domain expansion waiting to be unleashed. Scroll through an incredibly buttery-smooth, anime-inspired experience that shatters known limits and reveals jaw-dropping imagery right before your eyes. Powered by GSAP and Lenis, every pixel screams perfection. Are you ready to awaken your true potential? 🔥✨
 
-## 🔗 Links
+## 🚀 Live Website
 
-| | |
-|---|---|
-| **Live Demo** | [kakuseeii.vercel.app](https://kakuseeii.vercel.app) |
-| **GitHub** | [github.com/Y7XIFIED/kakusei](https://github.com/Y7XIFIED/kakusei) |
+Experience the fully interactive website live here: [https://kakuseeii.vercel.app](https://kakuseeii.vercel.app)
 
-## 🚀 Local Development
-
-```bash
-npm install
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173)
-
-## 🛠 Built With
-
-- [GSAP](https://gsap.com/) + ScrollTrigger — scroll-driven image reveal animations
-- [Lenis](https://lenis.darkroom.engineering/) — buttery smooth scroll
-- Vite — local dev server & build
-
----
-
-Made by **Y7XIFIED**
+<div align="center">
+  <p>Y7XIFIED</p>
+</div>
