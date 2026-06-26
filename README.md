@@ -41,9 +41,9 @@ Kakuseeii/
 │   ├── fonts
 │   │   └── Nasalization Rg.otf
 │   └── img
-│       ├── download (1).jpg
-│       ├── download.jpg
-│       └── Mahoraga.jpg
+│       ├── 1.jpg
+│       ├── 2.jpg
+│       └── 3.jpg
 ├── favicon.png
 ├── index.html
 ├── package-lock.json
